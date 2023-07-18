@@ -1,0 +1,12 @@
+#white__board {
+  display: none;
+  justify-self: center;
+  width: calc(100% - 40.7rem);
+  position: fixed;
+  left: 15.7rem;
+  top: clac(100vh - 72px);
+  overflow-y: auto;
+  height: 100%;
+  background-color: aliceblue;
+  }
+  
